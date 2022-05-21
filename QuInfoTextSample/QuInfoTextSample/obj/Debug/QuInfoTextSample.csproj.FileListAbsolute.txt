@@ -1,0 +1,13 @@
+C:\Users\rinei\保存先ファイル\CS-開発者用-SampleSoftFile\QuInfoTextSample\QuInfoTextSample\bin\Debug\QuInfoTextSample.exe.config
+C:\Users\rinei\保存先ファイル\CS-開発者用-SampleSoftFile\QuInfoTextSample\QuInfoTextSample\bin\Debug\QuInfoTextSample.exe
+C:\Users\rinei\保存先ファイル\CS-開発者用-SampleSoftFile\QuInfoTextSample\QuInfoTextSample\bin\Debug\QuInfoTextSample.pdb
+C:\Users\rinei\保存先ファイル\CS-開発者用-SampleSoftFile\QuInfoTextSample\QuInfoTextSample\bin\Debug\Newtonsoft.Json.dll
+C:\Users\rinei\保存先ファイル\CS-開発者用-SampleSoftFile\QuInfoTextSample\QuInfoTextSample\bin\Debug\Newtonsoft.Json.xml
+C:\Users\rinei\保存先ファイル\CS-開発者用-SampleSoftFile\QuInfoTextSample\QuInfoTextSample\obj\Debug\QuInfoTextSample.csproj.AssemblyReference.cache
+C:\Users\rinei\保存先ファイル\CS-開発者用-SampleSoftFile\QuInfoTextSample\QuInfoTextSample\obj\Debug\QuInfoTextSample.MainForm.resources
+C:\Users\rinei\保存先ファイル\CS-開発者用-SampleSoftFile\QuInfoTextSample\QuInfoTextSample\obj\Debug\QuInfoTextSample.Properties.Resources.resources
+C:\Users\rinei\保存先ファイル\CS-開発者用-SampleSoftFile\QuInfoTextSample\QuInfoTextSample\obj\Debug\QuInfoTextSample.csproj.GenerateResource.cache
+C:\Users\rinei\保存先ファイル\CS-開発者用-SampleSoftFile\QuInfoTextSample\QuInfoTextSample\obj\Debug\QuInfoTextSample.csproj.CoreCompileInputs.cache
+C:\Users\rinei\保存先ファイル\CS-開発者用-SampleSoftFile\QuInfoTextSample\QuInfoTextSample\obj\Debug\QuInfoTextSample.csproj.CopyComplete
+C:\Users\rinei\保存先ファイル\CS-開発者用-SampleSoftFile\QuInfoTextSample\QuInfoTextSample\obj\Debug\QuInfoTextSample.exe
+C:\Users\rinei\保存先ファイル\CS-開発者用-SampleSoftFile\QuInfoTextSample\QuInfoTextSample\obj\Debug\QuInfoTextSample.pdb
